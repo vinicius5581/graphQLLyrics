@@ -1,6 +1,12 @@
 # Lyrical-GraphQL
 Starter project from a GraphQL course on Udemy.com
 
+## Heroku URL
+
+Currently up to date with 41. Will continue.. sleep is needed.
+
+https://pacific-island-18342.herokuapp.com/
+
 ## Queries & Mutations
 
 ```
